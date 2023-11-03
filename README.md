@@ -1,2 +1,6 @@
-# Proyecto1MC2
-Proyecto de MC2 - Seccion A - 202111612 - Daniel Guzman
+# MC2_Proyecto
+### Algoritmo de busqueda en Anchura
+### Nombre: José Daniel Guzmán Hernández 
+### Carnet: 202111612
+### Curso: Matematica para Computacion 2
+### Seccion: A
